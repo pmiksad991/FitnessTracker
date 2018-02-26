@@ -1,0 +1,33 @@
+body{
+	background: url(../img/background.jpg);
+	background-repeat: no-repeat;
+	-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+background-position: top center;
+	background-attachment: fixed;
+}
+
+#prozor{
+	margin-top: 10%;
+	padding-bottom: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+
+#id2{
+	display: none;
+}
+#id1{
+	display: block;
+}
+#id4{
+	display: none;
+}
+#id3{
+	display: block;
+}
+#line {
+	border-color: rgb(169,169,169);
+}
